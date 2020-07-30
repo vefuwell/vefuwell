@@ -1,8 +1,7 @@
 ### Hi there 👋
-## cool!
 
-![天下无敌](https://uploads.5068.com/allimg/1805/188-1P523162948.jpg)
 
+<img src="https://uploads.5068.com/allimg/1805/188-1P523162948.jpg" width="100%">
 <!--
 **vefuwell/vefuwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
